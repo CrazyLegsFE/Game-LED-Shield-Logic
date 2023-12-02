@@ -17,7 +17,7 @@ const int bottomButton = 3;
 const int leftButton = 4;
 const int rightButton = 5;
 const int resetButton = 10;
-
+//Below is your shield states determined by your color pattern
 enum ShieldState {
   BALANCED,
   TOP_BLUE_BOTTOM_YELLOW,
