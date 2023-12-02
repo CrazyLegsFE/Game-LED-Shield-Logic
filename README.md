@@ -8,7 +8,7 @@ INTENT:
 The code for game/simlulator incorporation is not included as it may vary for your application.  The orginal intent is for use in a Star Citizen button box but could be used in many space simulator style games.
 
 APPLICATION:
-The code is written for an Atmega microcontroller (arduino compatible) but could be adapted to many other compute.  You can simulate my entire project for freen at wowki.com
+The code is written for an Atmega microcontroller (arduino compatible) but could be adapted to any other compatible compute.  You can simulate my entire project for freen at wowki.com
 
 REQUIREMENTS:
 To run this code as written without modification it was run on an an arduino compatible controller.
